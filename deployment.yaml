@@ -16,4 +16,4 @@ spec:
       - name: star-agile-health-care
         image: subkamble/star-agile-health-care:latest
         ports:
-        - containerPort: 8081
+        - containerPort: 8082
